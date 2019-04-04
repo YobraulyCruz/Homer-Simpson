@@ -24,9 +24,9 @@ $("#profile-picture").click(function(){
 });
 
 $("#profile-picture").click(function(){
-    alert("Its Treyway");
+    alert("AYAYA");
     
 });
 $(".post-image2").click(function(){
-    alert("Onii-chan stooooop");
+    alert("hlo");
 });
